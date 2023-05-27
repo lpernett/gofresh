@@ -13,7 +13,7 @@ It currently works with [Traffic](https://github.com/pilu/traffic), [Martini](ht
 
 ## Installation
 
-    go get github.com/pilu/fresh
+    go get github.com/lpernett/gofresh
 
 ## Usage
 
@@ -50,20 +50,4 @@ Here is a sample config file with the default settings:
     log_color_watcher: magenta
     log_color_app:
 
-
-## Author
-
-* [Andrea Franz](http://gravityblast.com)
-
-## More
-
-* [Mailing List](https://groups.google.com/d/forum/golang-fresh)
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
 
